@@ -15,11 +15,9 @@
 
 1) Откройте терминал и введите:
 
-   `#Debian and Ubuntu-подобные
-   
+   `#Debian and Ubuntu-подобные:
    sudo apt-get install setblue-grafoman`
-   `#Fedora and Red Hat-подобные
-   
+   `#Fedora and Red Hat-подобные:
    sudo dnf install setblue-grafoman`
 3) Подтвердите установку, введя пароль.
    
