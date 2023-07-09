@@ -4,7 +4,7 @@ The application supports 2 vector graphic formats: SVG and PDF; It helps the use
 Color gamut: RGB.
 
 ## PROGRAM INSTALLATION
-Method 1..
+**Method 1.**
 
 1) Open a terminal and type:
    
