@@ -1,7 +1,7 @@
 # README
 **Grafoman** is a simple graphing program created specifically for the Linux operating system (deb and rpm-like).
-The application supports 2 vector graphic formats: SVG and PDF. It helps the user to use graphics forgetting about the image resolution.
-Color gamut: RGB. 
+The application supports 2 vector graphic formats: SVG and PDF; It helps the user to use graphics forgetting about the image resolution.
+Color gamut: RGB.
 
 ## PROGRAM INSTALLATION
 Method 1..
