@@ -1,35 +1,35 @@
 # README
-**Grafoman** is a simple graphing program created specifically for the Linux operating system (deb and rpm-like).
-The application supports 2 vector graphic formats: SVG and PDF; It helps the user to use graphics forgetting about the image resolution.
-Color gamut: RGB.
+**Grafoman** - это простая программа для построения графиков, созданная специально для операционной системы Linux (deb и rpm-подобные).
+Программа поддерживает 2 формата векторной графики: SVG и PDF, которая помогает пользователю использовать графику, забыв о разрешении изображения.
+Цветовая гамма: RGB.
 
-## PROGRAM INSTALLATION
-**Method 1.**
+## УСТАНОВКА ПРОГРАММЫ
+**Метод 1.**
 
-1) Open a terminal and type:
+1) Откройте терминал и введите:
    
    `flatpak install flathub soft.setblue.Grafoman`
-2) Confirm the installation and wait for it to complete.
+2) Подтвердите установку и ожидайте её окончания.
 
-**Method 2.**
+**Метод 2.**
 
-1) Open a terminal and type:
+1) Откройте терминал и введите:
 
-   `#Debian and Ubuntu-like
+   `#Debian and Ubuntu-подобные
    sudo apt-get install setblue-grafoman`
-   `#Fedora and Red Hat-like
+   `#Fedora and Red Hat-подобные
    sudo dnf install setblue-grafoman`
-2) Confirm the action by entering your password.
+2) Подтвердите установку, введя пароль.
    
-**Method 3.**
+**Метод 3.**
 
-1) Download the file setblue-grafoman-0.1.3-amd64.tar.xz from the `setblue-dev/grafoman` repository.
-2) Open a terminal and type:
+1) Загрузите файл setblue-grafoman-0.1.3-amd64.tar.xz из репозитория `setblue-dev/grafoman`.
+2) Откройте терминал и введите:
 
    `tar xvf ~/ Downloads/setblue-grafoman-0.1.3-amd64.tar.xz`
-4) Navigate to the unpacked archive folder by typing:
+3) Перейдите в папку распакованного архива, введя:
 
     `cd ~/setblue-grafoman-0.1.3-amd64`
-6) Run the installation file by typing:
+4) Запустите установочный файл, введя:
 
    `./install.sh.`
